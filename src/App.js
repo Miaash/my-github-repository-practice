@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          hello seonga git branch 생성함
+          hello seonga git branch 생성함 그리고 풀리퀘스트 해보자
         </a>
       </header>
     </div>
