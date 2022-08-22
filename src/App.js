@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HIIIII HELLO WORLD
+          hello seonga git branch 생성함
         </a>
       </header>
     </div>
